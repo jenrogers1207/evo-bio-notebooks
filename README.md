@@ -1,2 +1,2 @@
 # evo-bio-notebooks
-Jupyter Notebooks for design study data manipulation 2019
+Notebooks for Harmon lab design study data manipulation 2019
